@@ -17,3 +17,9 @@ The VRD is applied to two videos that are openly available on Archive.org:
 [The Moon and Us](https://archive.org/details/journey-through-the-solar-system-episode-06-the-moon-us) (28 min) Episode 6, in the documentary series Journey Through the Solar System released by NASA in 1983. Licensed under Attribution-NonCommercial-NoDerivs 4.0 International.
 
 Before uploading the videos on Github for the VRD demo, we converted them to hvc1 in order to stay within Github's allowed file size of 100 mb/file.
+
+# Code
+
+The source code for the VRD library can be found on [Github](https://github.com/humlab/video_reuse_detector). It is also available for installation using `pip install video-reuse-detector`. 
+
+The PyPI page can be found [here](https://pypi.org/project/video-reuse-detector/).
